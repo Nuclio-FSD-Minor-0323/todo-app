@@ -1,0 +1,15 @@
+div.item {
+    border:1px solid blue;
+    margin:10px;
+    text-align:left;
+    padding:10px;
+}
+
+p.date {
+    font-size: 14px;
+    color: darkgray;
+}
+
+div.item a {
+    color: red;
+}
